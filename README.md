@@ -1,4 +1,4 @@
-# DP-SSCL: Model-agnostic and Reusable Pseudo Label Generation\\ for Semi-supervised Continual Learning
+# DP-SSCL: Model-agnostic and Reusable Pseudo Label Generation for Semi-supervised Continual Learning
 
 This **anonymous** code repository is used for semi-supervised lifelong learning experiments presented in paper **Model-agnostic and Reusable Pseudo Label Generation for Semi-supervised Continual Learning**.
 
