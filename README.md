@@ -1,8 +1,8 @@
 # DP-SSCL: Model-agnostic and Reusable Pseudo Label Generation\\ for Semi-supervised Continual Learning
 
-This **anonymous** code repository is used for semi-supervised lifelong learning experiments presented in paper **Model-agnostic and Reusable Pseudo Label Generation\\ for Semi-supervised Continual Learning**.
+This **anonymous** code repository is used for semi-supervised lifelong learning experiments presented in paper **Model-agnostic and Reusable Pseudo Label Generation for Semi-supervised Continual Learning**.
 
-![alt text](https://github.com/dpsscl/dpsscl/blob/master/workflow_aaai.png)
+![alt text](https://github.com/dpsscl/dpsscl/blob/main/workflow_aaai.png)
 
 ## Version and Dependencies
 - Python 3.6 or higher
